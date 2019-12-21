@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="15bdd231-a2fb-4de4-b0d2-d1a2eba5ba82" name="Default Changelist" comment="" />
+    <list default="true" id="15bdd231-a2fb-4de4-b0d2-d1a2eba5ba82" name="Default Changelist" comment="Много чего поправил&#10;Отрефакторил&#10;Фичи крутые да и сам крутой">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Sort_jar/Sort.jar" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/Sort_jar/Sort.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sort.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +20,12 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1UxqYSAcOk5QtPpXmpKcpBOeYCf" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -60,15 +69,20 @@
     </task>
     <servers />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Sort.java</url>
-          <line>107</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Много чего поправил" />
+    <MESSAGE value="Много чего поправил&#10;Отрефакторил&#10;Фичи крутые да и сам крутой" />
+    <option name="LAST_COMMIT_MESSAGE" value="Много чего поправил&#10;Отрефакторил&#10;Фичи крутые да и сам крутой" />
   </component>
 </project>
