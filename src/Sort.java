@@ -7,7 +7,7 @@ import java.util.Comparator;
 public class Sort {
     private static String filename = "C:\\text.txt";
     private static String strSplitter = "[\n]";
-    private static String wrdSplitter = "[ ,.]*";
+    private static String wrdSplitter = "[ ,.]+";
     private static boolean ignoreCase = false;
     private static int indexCmp = 0;
     private static boolean cmpWithLen = false;
