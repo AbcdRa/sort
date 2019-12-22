@@ -10,3 +10,9 @@ java -cp Sort.class C:\text.txt [-i/-] [-l/-] [0,1,...n]
 -i - ignore case
 -l - sorting by length
 0,1,2,...,n - 1,2,...,n word.
+
+Тут ещё типо советы примеры 
+Ну пока я здесь напишу только то что javac -encoding utf-8 Sort.java
+Файл должен быть Windows 1251
+Кодировка консоли cp866
+Сам в шоке как это работает
