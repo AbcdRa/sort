@@ -42,8 +42,9 @@ public class Sort {
             return;
         }
         System.out.println("Распознан один аргумент - " + args[0]);
-        filename = args[0];
-
+        if(!args[0].equals("-")) {
+            filename = args[0];
+        }
         //Если аргументов два и больше
         if(args.length > 1) {
             System.out.println("Разпознан второй аргумент - " + args[1]);
