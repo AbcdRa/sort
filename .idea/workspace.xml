@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="15bdd231-a2fb-4de4-b0d2-d1a2eba5ba82" name="Default Changelist" comment="Много чего поправил&#10;Отрефакторил&#10;Фичи крутые да и сам крутой">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="15bdd231-a2fb-4de4-b0d2-d1a2eba5ba82" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Sort_jar/Sort.jar" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/Sort_jar/Sort.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sort/Sort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Sort/Sort.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sort.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,6 +25,7 @@
   <component name="ProjectId" id="1UxqYSAcOk5QtPpXmpKcpBOeYCf" />
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -67,6 +67,21 @@
       <option name="presentableId" value="Default" />
       <updated>1576308640931</updated>
     </task>
+    <task id="LOCAL-00001" summary="Много чего поправил&#10;Отрефакторил&#10;Фичи крутые да и сам крутой">
+      <created>1576958814270</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1576958814270</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Можно юзать стандартный путь до файла -">
+      <created>1577020919351</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1577020919351</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -74,7 +89,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -83,6 +100,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Много чего поправил" />
     <MESSAGE value="Много чего поправил&#10;Отрефакторил&#10;Фичи крутые да и сам крутой" />
-    <option name="LAST_COMMIT_MESSAGE" value="Много чего поправил&#10;Отрефакторил&#10;Фичи крутые да и сам крутой" />
+    <MESSAGE value="Можно юзать стандартный путь до файла -" />
+    <option name="LAST_COMMIT_MESSAGE" value="Можно юзать стандартный путь до файла -" />
   </component>
 </project>

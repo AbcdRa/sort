@@ -65,7 +65,7 @@ public class Sort {
             System.out.println("Распознан 3 аргумент - " + args[3]);
             try {
                 //Так как аргумент это строка, а нам нужно число
-                indexCmp = Integer.parseInt(args[2]);
+                indexCmp = Integer.parseInt(args[3]);
             } catch (NumberFormatException ex) {
                 System.out.println(args[3] + " не распознано как число");
                 indexCmp = 0;
